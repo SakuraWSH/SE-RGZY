@@ -1,0 +1,6 @@
+[submodule "SE-Frontend"]
+	path = SE-Frontend
+	url = https://github.com/SakuraWSH/SE-Frontend.git
+[submodule "Delta-Backend"]
+	path = Delta-Backend
+	url = https://github.com/wr786/Delta-Backend.git
